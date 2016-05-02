@@ -1,0 +1,13 @@
+[hang@colonial03 bfs_mem_topdown]$ ./bfs_mem 1 ~/facebook_undirected/facebook.tuple.dat_beg_pos.bin ~/facebook_undirected/facebook.tuple.dat_csr.bin 1
+/path/to/exe root beg_file csr_file thread_count
+Graph load (success): 96079681 verts, 1359456852 edges 10.3695 second(s)
+Degree[1] = 278
+Level-0-data-meta-total: 260 0.083019 278
+Level-1-data-meta-total: 7838 0.0830641 14902
+Level-2-data-meta-total: 508552 0.090836 776692
+Level-3-data-meta-total: 16115857 0.727872 65796087
+Level-4-data-meta-total: 66868909 6.89974 801971001
+Level-5-data-meta-total: 12540253 3.40175 473650116
+Level-6-data-meta-total: 38002 0.40099 17209241
+Level-7-data-meta-total: 5 0.0837369 38530
+Total time: 11.8543 seconds

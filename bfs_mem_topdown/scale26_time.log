@@ -1,0 +1,13 @@
+hang/scale_26/csr_26_16.0_0_of_1x1.bin 1
+/path/to/exe root beg_file csr_file thread_count
+Graph load (success): 67108864 verts, 2147483648 edges 12.8181 second(s)
+Degree[1] = 1
+Level-0-data-meta-total: 1 0.045439 1
+Level-1-data-meta-total: 16234 0.0456772 16855
+Level-2-data-meta-total: 14143723 1.35303 153316057
+Level-3-data-meta-total: 18431113 15.8827 1925740403
+Level-4-data-meta-total: 195689 1.32915 68189836
+Level-5-data-meta-total: 513 0.0925879 198629
+Level-6-data-meta-total: 2 0.0456948 515
+Total time: 18.8402 seconds
+
